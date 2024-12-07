@@ -1,7 +1,7 @@
 HELLO ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siratee Saiprom
 =======================================================================================================================================
 
-: Web Full-Stack Developer , Automate QA Tester
+Student: Web Full-Stack Developer , Automate QA Tester
 -----------------------------------------------
 
 Siratee Saiprom is a talented Full-Stack Developer with extensive experience in website development and a keen interest in QA testing. Known for exceptional teamwork skills and a commitment to continuous growth, Siratee strives to apply their expertise to deliver impactful results and drive success for both themselves and their collaborators.
